@@ -18,4 +18,4 @@ Recruiters aren't looking for people who can be replaced by AI—they want peopl
 Think of Agentic AI as a highly efficient intern. It handles the "low-brain" tasks (data entry, scheduling, basic troubleshooting) so your skilled techs can focus on high-level repairs.
 
 ---
-[← Back to Main Series Index](../README.md)
+[← Back to Main Series Index](https://github.com/AmeliaGutierrezMiranda/Skilled-Trades-Knowledge-Hub)
