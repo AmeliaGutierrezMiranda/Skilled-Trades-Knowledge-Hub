@@ -4,7 +4,7 @@
 ## 📚 Table of Contents
 Click the links below to explore the series:
 
-* **Part 1:** [Mastering Tacit Knowledge](./01-Tacit-Knowledge-Mastering-the-Art-of-Hands-On-Wisdom/README.md)
+* **Part 1:** [Mastering Tacit Knowledge](./01-Tacit-Knowledge/README.md)
 * **Part 2:** [Industrial Agentic AI](./02-Agentic-AI/README.md)
 * **Part 3:** [Digital Twins](./03-Digital-Twins/README.md)
 
