@@ -13,4 +13,4 @@ Welcome to my series on the future of industrial manufacturing. This hub is desi
 ---
 ### 📝 Resume Support
 Looking for help on how to display these modern skills? 
-[Check out my Resume Guide here!](https://github.com/AmeliaGutierrezMiranda)
+[Check out my Resume Guide here!](./Resume-Guide.md)
