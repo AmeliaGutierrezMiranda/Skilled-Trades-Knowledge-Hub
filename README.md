@@ -8,10 +8,11 @@ Click the links below to explore the series:
 * **Part 2:** [Industrial Agentic AI](./02-Agentic-AI/README.md)
 * **Part 3:** [Digital Twins](./03-Digital-Twins/README.md)
 
+
 ---
 
 ## 📄 Resume Resources
-👉 **[Check out my Resume Guide here!](./Resume-Guide.md)**
+👉 **Resume Guide:** [Check out my Resume Guide here!](./Resume-Guide.md)
 
 ---
 *Maintained by Amelia Gutierrez Miranda*
